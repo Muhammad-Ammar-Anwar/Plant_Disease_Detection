@@ -106,7 +106,7 @@ Our AI model processes your images using:
 - **State Management:** Zustand
 - **Styling:** Tailwind CSS
 - **Build Tool:** Vite
-- **AI/ML:** Advanced computer vision algorithms
+- **AI/ML:** RT-DETR Model
 - **Hosting:** Vercel
 - **Authentication:** Secure token-based with 2FA support
 
@@ -141,3 +141,4 @@ bun run dev
 npm run build
 # or
 bun run build
+
